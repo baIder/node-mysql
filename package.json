@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@types/mysql": "^2.15.21",
+    "@types/node": "^18.6.4",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.3"
+  },
+  "devDependencies": {
+    "@types/sequelize": "^4.28.14"
+  }
+}
